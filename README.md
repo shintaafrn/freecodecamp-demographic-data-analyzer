@@ -1,1 +1,0 @@
-# freecodecamp-demographic-data-analyzer
